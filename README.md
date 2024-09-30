@@ -1,5 +1,3 @@
-Tabii, aşağıda isteğinize göre detaylı ve tasarımı iyi olan bir README dosyası hazırladım. Bu dosya, kodun AE52’ye ait olduğunu ve ne yaptığını, nasıl çalıştığını detaylı bir şekilde anlatmaktadır.
-
 ---
 
 # Banka Hesabı Yönetim Programı (AE52)
